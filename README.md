@@ -10,14 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashish-nehra" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="ashish-nehra" height="40" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/mahraj" target="blank"><img align="center" src="https://i.imgur.com/yrohYlU.png" alt="mahraj" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/maheshwarirajat098" target="blank"><img align="center" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" alt="maheshwarirajat098" height="30" width="30" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png"/> </a> 
-<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://wpguru.co.uk/wp-content/uploads/2020/09/unreal-engine-icon-25-200x200.jpg" alt="ue4" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Unreal_Engine_4_logo_and_wordmark.svg" alt="ue4" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
