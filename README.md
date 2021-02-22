@@ -16,8 +16,8 @@
 <p align="left">  
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.unrealengine.com/en-US/" target="_blank"> <img src="https://wpguru.co.uk/wp-content/uploads/2020/09/unreal-engine-icon-25-200x200.jpg" alt="ue4" width="40" height="40"/> </a>
-<a href="https://ipfs.io/" target="_blank"> <img src="http://www.andrew.cmu.edu/user/xinyit/image/Get-Ready-to-Use-IPFS-Cluster/thumbnail.png" alt="ipfs" width="100" height="40"/> </a>
-<a href="https://docs.soliditylang.org/en/v0.8.1/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.4.12/_images/logo.svg" alt="ipfs" width="40" height="40"/> </a>
+<a href="https://ipfs.io/" target="_blank"> <img src="http://www.andrew.cmu.edu/user/xinyit/image/Get-Ready-to-Use-IPFS-Cluster/thumbnail.png" alt="ipfs" width="80" height="40"/> </a>
+<a href="https://docs.soliditylang.org/en/v0.8.1/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.4.12/_images/logo.svg" alt="ipfs" width="50" height="50"/> </a>
 <a href="https://remix-project.org/" target="_blank"> <img src="https://remix-project.org/" alt="ipfs" width="40" height="40"/> </a>
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/ethereum-logo-300x300.png" alt="ipfs" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
